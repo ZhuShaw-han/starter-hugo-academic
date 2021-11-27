@@ -52,8 +52,8 @@ email: "haroherszhu@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex dynamical systems and natural phenomenon. Xiaohan works extensively in laboratory. and has rich research experience in analytical chemistry (chromatography specifically), machine learning and microbial community dynamics. She is now doing her research on microbial community assembly, coalescence and historical contingency at Gore Lab, MIT. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In her free time, she likes to go hiking and practice rope skipping. She is a member of the THU Rope-skipping Freestyle team, and won the championship for two consecutive years in Ma Yuehan Cup Women 60-sec single-jump speed race.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1WVKTkeZjHV7o9UPM12Pq1t0QdXIJKYnN/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
