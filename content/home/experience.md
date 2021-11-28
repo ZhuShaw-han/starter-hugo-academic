@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Academic Experience
+title: Academic Experience & Awards
 subtitle:
 
 # Date format for experience
@@ -39,7 +39,7 @@ experience:
         
   - title: Core Committee Member & Leader of Voluteers
     company: INASCON 2019
-    company_url: https://www.bagevent.com/event/inascon2019/p/121244
+    company_url: ''
     company_logo: ''
     location: Tsinghua Univ, Beijing, China
     date_start: '2019-06-01'
@@ -49,6 +49,31 @@ experience:
         
         * Xiaohan served as the team leader of all the volunteers and the core member of the committee.
 
+
+  - title: Honors & Awards
+    company: Tsinghua University
+    company_url: ''
+    company_logo: ''
+    location: Tsinghua Univ, Beijing, China
+    date_start: '2018-09-01'
+    date_end: ''
+    description: >-
+        * As the first international scientific conference totally hosted by students in Tsinghua University, INASCON lasted for 4 days, had more than 150 local and international attendees and invited 9 distinguished keynote speakers.
+        
+        * Xiaohan served as the team leader of all the volunteers and the core member of the committee.
+
+
+  - title: Honors & Awards before University
+    company: ''
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: ''
+    date_end: ''
+    description: >-
+        * As the first international scientific conference totally hosted by students in Tsinghua University, INASCON lasted for 4 days, had more than 150 local and international attendees and invited 9 distinguished keynote speakers.
+        
+        * Xiaohan served as the team leader of all the volunteers and the core member of the committee.
 
 design:
   columns: '2'
