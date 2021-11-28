@@ -1,6 +1,6 @@
 ---
-title: Microbial Community Dynamics
-summary: Interaction patterns and diversity in assembled complex microbial communities. (Assembly, Coalescence, Historical Contingency, etc)
+title: Interaction patterns and diversity in assembled complex microbial communities
+summary: An example of using the in-built project page.
 tags:
 - CommunityDynamics
 date: "2016-04-27T00:00:00Z"
