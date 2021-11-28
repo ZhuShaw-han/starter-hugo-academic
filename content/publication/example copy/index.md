@@ -1,5 +1,5 @@
 ---
-title: "Simple and practical solvent system selection strategy for HSCCC separation based on the HPLC polarity parameter model of the target compound"
+title: "1. Simple and practical solvent system selection strategy for HSCCC separation based on the HPLC polarity parameter model of the target compound"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

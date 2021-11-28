@@ -1,5 +1,5 @@
 ---
-title: "Rapid isolation and hypoglycemic activity of secondary metabolites of Eurotium cristatum by high speed countercurrent chromatography"
+title: "3. Rapid isolation and hypoglycemic activity of secondary metabolites of Eurotium cristatum by high speed countercurrent chromatography"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

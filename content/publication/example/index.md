@@ -1,5 +1,5 @@
 ---
-title: "Counter-Current Fractionation-Assisted Bioassay-Guided Separation of Active Compound from Blueberry and the Interaction between the Active Compound and α-Glucosidase"
+title: "2. Counter-Current Fractionation-Assisted Bioassay-Guided Separation of Active Compound from Blueberry and the Interaction between the Active Compound and α-Glucosidase"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
