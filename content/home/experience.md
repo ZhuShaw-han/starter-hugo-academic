@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Chairman
+    company: THU Natural Science and Informatic Science Innovation Team
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: # org-gc
+    location: Beijing
+    date_start: '2020-10'
+    date_end: '2021-10'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Hosting events 
+        * Inviting distinguished speakers
+        * Daily missions
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Committee member of the 13th INASCON 
+    company: International Nanoscience Student Conference (INASCON)
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: # org-x
+    location: Beijing
+    date_start: '2019-08'
+    date_end: '2019-08'
+    description: |2-
+        Description:
+        
+        * As the first international scientific conference totally hosted by students in Tsinghua University, INASCON lasted for 4 days, had more than 150 local and international attendees and invited 9 distinguished keynote speakers.
+        * Served as the team leader of all the volunteers and the core member of the committee.
+
 
 design:
   columns: '2'
