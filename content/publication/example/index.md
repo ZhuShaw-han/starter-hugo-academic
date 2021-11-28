@@ -9,30 +9,30 @@ authors:
 
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-03-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-03-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Foods*
+publication_short: In *Foods*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: An efficient strategy for the selection of active compounds from blueberry based on counter-current fractionation and bioassay-guided separation was established in this study. Blueberry extract showed potential α-glucosidase inhibitory activity. After extraction by different solvents, the active components were enriched in water. The water extract was divided into six fractions via high-speed counter-current chromatography to further track the active components. Results indicated that the α-glucosidase inhibition rate of F4 was remarkable higher than the others. Cyanidin-3-glucoside (C3G) with a purity of 94.16% was successfully separated from F4 through column chromatography, and its structure was identified by ultraviolet spectral, Fourier-transformed infrared spectroscopy, high-performance liquid chromatography-electrospray ionization-tandem mass spectrometry, 1H nuclear magnetic resonance (NMR), and 13C NMR. The interaction mechanism between C3G and α-glucosidase was clearly characterized and described by spectroscopic methods, including fluorescence and circular dichroism (CD) in combination with molecular docking techniques. C3G could spontaneously bind with α-glucosidase to form complexes by hydrogen bonds. The secondary structure of α-glucosidase changed in varying degrees after complexation with C3G. The α-helical and β-turn contents of α-glucosidase decreased, whereas the β-sheet content and the irregular coil structures increased. Molecular docking speculated that C3G could form hydrogen bonds with α-glucosidase by binding to the active sit (Leu 313, Ser 157, Tyr 158, Phe 314, Arg 315, and two Asp 307). These findings may be useful for the development of functional foods to tackle type 2 diabetes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: An efficient strategy for the selection of active compounds from blueberry based on counter-current fractionation and bioassay-guided separation was established in this study.
 
 tags: []
 
@@ -75,12 +75,3 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
