@@ -51,7 +51,7 @@ experience:
 
 
   - title: Honors & Awards
-    company: 'Tsinghua University'
+    company: ''
     company_url: ''
     company_logo: ''
     location: ''
