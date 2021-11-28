@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Microbial Community
+  - name: Interaction patterns and diversity in assembled complex microbial communities
     tag: CommunityDynamics
-  - name: GLV
-    tag: GLV
+  - name: Research on the rapid selection of suitable solvent system for HSCCC based on the HPLC polarity parameter model
+    tag: HPLC
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
