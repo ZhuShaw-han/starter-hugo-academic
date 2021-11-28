@@ -23,27 +23,32 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Chairman
-    company: THU Natural Science and Informational Science Interdisciplinary Innovation Team
+    company: THU Natural Science and Informational Science Interdisciplinary Innovation Team (THU-NSISIIT)
     company_url: ''
     company_logo: ''
-    location: Tsinghua Univ, Beijing
+    location: Tsinghua Univ, Beijing, China
     date_start: '2020-10-01'
     date_end: '2021-10-01'
     description: >-
-        * Analysing
-
-        * Modelling
-
-        * Deploying
+        * THU-NSISIIT a student innovation research team of 70 students from 10 faculties. Our team focus on multi-dimensional interdisciplinary research in the field of natural science (including physics, biology, neuroscience, etc.) and informational science. The team create a platform and financially supporting the students for interdisciplinary research.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+        * The team is one of the 22 top student innovation teams of Tsinghua University. 
+        
+        * Xiaihan served as the first chairman of the team by hosting events and inviting distinguished speakers.
+
+        
+  - title: Core Committee Member & Leader of Voluteers
+    company: Tsinghua
+    company_url: https://www.bagevent.com/event/inascon2019/p/121244
     company_logo: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing, China
+    date_start: '2019-06-01'
+    date_end: '2019-08-18'
+    description: >-
+        * As the first international scientific conference totally hosted by students in Tsinghua University, INASCON lasted for 4 days, had more than 150 local and international attendees and invited 9 distinguished keynote speakers.
+        
+        * Xiaohan served as the team leader of all the volunteers and the core member of the committee.
+
 
 design:
   columns: '2'
