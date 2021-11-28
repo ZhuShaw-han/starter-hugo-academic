@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: https://drive.google.com/file/d/1WVKTkeZjHV7o9UPM12Pq1t0QdXIJKYnN/view?usp=sharing
+slides = ""
 ---
 
 Advisor: Jeff Gore; Professor in MIT Physics of Living Systems.  

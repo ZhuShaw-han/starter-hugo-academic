@@ -27,12 +27,14 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: https://twitter.com/99_horizon
+slides: ""
 ---
 
-Advisor: Jintian Tang; Professor in Department of Engineering Physics, Tsinghua University; Director of the Key Laboratory of Particle & Radiation Imaging, Ministry of Education.
+Advisor: 
+Jintian Tang; Professor in Department of Engineering Physics, Tsinghua University; Director of the Key Laboratory of Particle & Radiation Imaging, Ministry of Education.
 
-Project Area: Analytical Chemistry - Chromatography.
+Project Area: 
+Analytical Chemistry - Chromatography.
 
 \-	This project provided a rapid and simple method for the separation of unknow compounds. I used liquid-liquid separation technology coupled with High-Speed Countercurrent Chromatography (HSCCC) to separate high-purity compounds from complex natural compounds. 
 
