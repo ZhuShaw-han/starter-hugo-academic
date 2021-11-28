@@ -53,8 +53,13 @@ email: "haroherszhu@gmail.com"
 highlight_name: true
 ---
 
-Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex dynamical systems and natural phenomenon. Xiaohan works extensively in laboratory. and has rich research experience in analytical chemistry (chromatography specifically), machine learning and microbial community dynamics. She is now doing her research on microbial community assembly, coalescence and historical contingency at Gore Lab, MIT. 
+Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex dynamical systems and natural phenomenon. Xiaohan works extensively in laboratory during her undergraduate years. and has rich research experience in biophysics (microbial community dynamisc), analytical chemistry (chromatography, polarity parameter model, molecular docking), and machine learning. 
 
-In her free time, she likes to go hiking and practice rope skipping. She is a member of the THU Rope-skipping Freestyle team, and won the championship for two consecutive years in Ma Yuehan Cup Women 60-sec single-jump speed race.
+Xiaohan is now doing her research on microbial community assembly, coalescence and historical contingency at Gore Lab, MIT. 
+
+Xiaohan believes that a more diversified and comprehensive knowledge system, solid mathematical and mechanical basis and various research experience in college can help her obtain better sense in life science, bring innovative perspectives to biological field and carry out better distinguishing research in biological field in the long run. 
+
+In her free time, she likes hiking, running, and practice rope skipping. She is a member of the THU Rope-skipping Freestyle team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1WVKTkeZjHV7o9UPM12Pq1t0QdXIJKYnN/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
