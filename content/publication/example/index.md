@@ -1,11 +1,11 @@
 ---
-title: "An example conference paper"
+title: "Counter-Current Fractionation-Assisted Bioassay-Guided Separation of Active Compound from Blueberry and the Interaction between the Active Compound and α-Glucosidase}"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xue Hongkun, Zhu Xiaohan, Tan Jiaqi, Fan Linlin, Li Qian, Tang Jintian and Cai Xu
+- Xue Hongkun, *Zhu Xiaohan*, Tan Jiaqi, Fan Linlin, Li Qian, Tang Jintian and Cai Xu
 
 
 # Author notes (optional)
@@ -55,10 +55,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/#pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
