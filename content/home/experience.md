@@ -36,19 +36,6 @@ experience:
         * Inviting distinguished speakers
         * Daily missions
         
-  - title: Committee member of the 13th INASCON 
-    company: International Nanoscience Student Conference (INASCON)
-    company_url: ''
-    company_logo: # org-x
-    location: Beijing
-    date_start: '2019-08'
-    date_end: '2019-08'
-    description: |2-
-        Description:
-        
-        * As the first international scientific conference totally hosted by students in Tsinghua University, INASCON lasted for 4 days, had more than 150 local and international attendees and invited 9 distinguished keynote speakers.
-        * Served as the team leader of all the volunteers and the core member of the committee.
-
 
 design:
   columns: '2'
