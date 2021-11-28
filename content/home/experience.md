@@ -25,7 +25,7 @@ experience:
   - title: Chairman
     company: THU Natural Science and Informatic Science Innovation Team
     company_url: ''
-    company_logo: # org-gc
+    company_logo: org-gc
     location: Beijing
     date_start: '2020-10'
     date_end: '2021-10'
