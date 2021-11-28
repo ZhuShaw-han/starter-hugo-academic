@@ -58,26 +58,40 @@ experience:
     date_start: '2016-09-01'
     date_end: ''
     description: >-
-       2021, 2020, 2019: 
-       * 3 times of THU General Excellence Scholarship for the academic year (top 10 students of 150)
-       
-
-       
        2021: 
 
+       * THU General Excellence Scholarship for the academic year (around top 10 students of 150)
+
+       * Guo Zengyuan Scholarship
+
        * THU Science & Technology Innovation Excellence Scholarship (for top 4% students excellent in scientific research and technology innovation. I am the first and only female student to win this scholarship in 3 years)
+       
 
-        * 2021: Guo Zengyuan Scholarship
+       2020: 
 
-        * 2020, 2019: Academic Excellence Scholarship of THU
+       * THU General Excellence Scholarship for the academic year (around top 10 students of 150)
 
-        * 2019: Volunteer Excellence Scholarship of THU (top 2%)
+       * Academic Excellence Scholarship of THU
 
-        * 2018: 1st Class Scholarship for Freshmen of THU (top 1%)
+       2019:
 
-        * 2018: Rank 1st among 980,000 high school graduates in the 2018 College Entrance Examination (Gaokao) of Henan Province.
-        
-        * 2016: Silver Medal, Chinese Girls' Mathematical Olympiad, rank 1st in the Henan Provincial Team and rank 1st of the silver medals (Rank 29th in the whole country)
+       * THU General Excellence Scholarship for the academic year (around top 10 students of 150)
+
+       * Academic Excellence Scholarship of THU
+
+       * Volunteer Excellence Scholarship of THU (top 2%)
+      
+
+       2018: 
+       
+       * 1st Class Scholarship for Freshmen of THU (top 1%)
+       
+       * Rank 1st among 980,000 high school graduates in the 2018 College Entrance Examination (Gaokao) of Henan Province.
+       
+       
+       2016: 
+       
+       * Silver Medal of Chinese Girls' Mathematical Olympiad, rank 1st in the Henan Provincial Team and rank 1st of the silver medals (Rank 29th in the whole country)
 
         
 
