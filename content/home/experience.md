@@ -58,9 +58,12 @@ experience:
     date_start: '2016-09-01'
     date_end: ''
     description: >-
-        * 2021, 2020, 2019: 3 times of THU General Excellence Scholarship for the academic year (top 10 students of 150)
-        
-        * 2021: THU Science & Technology Innovation Excellence Scholarship (for top 4% students excellent in scientific research and technology innovation. I am the first and only female student to win this scholarship in 3 years)
+       2021, 2020, 2019: 
+       * 3 times of THU General Excellence Scholarship for the academic year (top 10 students of 150)
+       
+       2021: 
+       
+       * THU Science & Technology Innovation Excellence Scholarship (for top 4% students excellent in scientific research and technology innovation. I am the first and only female student to win this scholarship in 3 years)
 
         * 2021: Guo Zengyuan Scholarship
 
