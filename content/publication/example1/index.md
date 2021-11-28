@@ -21,8 +21,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Chromatography A (Under Review)*
-publication_short: In *Journal of Chromatography A (Under Review)*
+publication: In *Journal of Chromatography A (Under Review, Manuscript Number JCA-21-1498)*
+publication_short: In *Journal of Chromatography A (Under Review, Manuscript Number JCA-21-1498)*
 
 abstract: The selection of appropriate solvent system is the most crucial step of high-speed countercurrent chromatography (HSCCC) application for guaranteeing excellent separation efficiency, shorter run time, and better peak resolution. Polarity always plays an important role in the widely used chromatography techniques of HPLC and HSCCC. However, the HPLC evaluation and calculation of the compound polarity and the selection of appropriate HSCCC solvent system remain mutually independent. We chose 14 compounds to conduct the flask-and-shake experiments and HPLC analysis, such as apigenin, honokiol, phloridzin and dihydromaricetin. And as the results show, the compound polarity computed from the average polarity of biphasic system when the compound is uniformly distributed in two liquid phases and from HPLC analysis are equivalent. Guided by this strategy, we chose proper HSCCC solvent systems for mangosteen peel and Hypericum sampsonii Hance respectively, and two main components (mangostin and quercetin) were isolated from their extracts. This method greatly improves the efficiency of HSCCC solvent system selection, shortens the experimental time, and requires only 1 to 2 HPLC analysis with reference compounds. Therefore, the relationship between the polarity of the solute and the solvent, the polarity parameter model, provides a fast, steady and efficient analysis method for the calculation of the polarity parameters of unknown components in the material and the selection of the appropriate HSCCC solvent system for the extraction of those components. 
 
