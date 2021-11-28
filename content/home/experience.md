@@ -76,5 +76,5 @@ experience:
         * Xiaohan served as the team leader of all the volunteers and the core member of the committee.
 
 design:
-  columns: '2'
+  columns: '4'
 ---
