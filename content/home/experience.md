@@ -38,10 +38,10 @@ experience:
 
         
   - title: Core Committee Member & Leader of Voluteers
-    company: Tsinghua
+    company: INASCON 2019
     company_url: https://www.bagevent.com/event/inascon2019/p/121244
     company_logo: ''
-    location: Beijing, China
+    location: Tsinghua Univ, Beijing, China
     date_start: '2019-06-01'
     date_end: '2019-08-18'
     description: >-
