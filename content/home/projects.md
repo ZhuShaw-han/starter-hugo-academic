@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Interaction patterns and diversity in assembled complex microbial communities
+  - name: Microbial Communities
     tag: CommunityDynamics
-  - name: Research on the rapid selection of suitable solvent system for HSCCC based on the HPLC polarity parameter model
+  - name: HSCCC & HPLC
     tag: HPLC
 
 design:
