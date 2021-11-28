@@ -50,6 +50,16 @@ experience:
         * Xiaohan served as the team leader of all the volunteers and the core member of the committee.
 
 
+  - title: Core Committee Member & Leader of Voluteers
+    company: INASCON 2019
+    company_url: ''
+    company_logo: ''
+    location: Tsinghua Univ, Beijing, China
+    date_start: '2019-06-01'
+    date_end: '2019-08-18'
+    description: >-
+        * As th
+
 design:
   columns: '2'
 ---
