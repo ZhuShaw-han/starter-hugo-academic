@@ -29,7 +29,12 @@ experience:
     location: Tsinghua Univ, Beijing
     date_start: '2020-10-01'
     date_end: '2021-10-01'
-    description: kkk
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
