@@ -1,6 +1,6 @@
 ---
 title: Interaction patterns and diversity in assembled complex microbial communities
-summary: An example of using the in-built project page.
+summary: MIT, Gore Lab, July 2021 - Present (Anticipated April 2022)
 tags:
 - CommunityDynamics
 date: ""
