@@ -3,13 +3,13 @@ title: Interaction patterns and diversity in assembled complex microbial communi
 summary: An example of using the in-built project page.
 tags:
 - CommunityDynamics
-date: "2016-04-27T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Microbial community
   focal_point: Smart
 
 links:
