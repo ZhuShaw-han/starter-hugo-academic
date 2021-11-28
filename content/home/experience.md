@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Academic Experience
 subtitle:
 
 # Date format for experience
@@ -26,10 +26,12 @@ experience:
     company: THU Natural Science and Informational Science Interdisciplinary Innovation Team
     company_url: ''
     company_logo: ''
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tsinghua Univ, Beijing
+    date_start: '2020-10-01'
+    date_end: '2021-10-01'
+    description: 
+    Taught electronic engineering and researched semiconductor physics.
+    xxxxxxx
         
   - title: Professor of Semiconductor Physics
     company: University X
