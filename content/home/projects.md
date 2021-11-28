@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: CommunityDynamics
+  - name: Microbial Community
     tag: CommunityDynamics
   - name: GLV
     tag: GLV
