@@ -64,7 +64,7 @@ experience:
 
        * Guo Zengyuan Scholarship
 
-       * THU Science & Technology Innovation Excellence Scholarship (for top 4% students excellent in scientific research and technology innovation. I am the first and only female student to win this scholarship in 3 years)
+       * THU Science & Technology Innovation Excellence Scholarship (for top 4% students excellent in scientific research and technology innovation. Xiaohan is the first and only female student to win this scholarship in 3 years)
        
 
        2020: 
