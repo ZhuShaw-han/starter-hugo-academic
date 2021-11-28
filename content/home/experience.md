@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 80
 
 title: Academic Experience & Awards
 subtitle: ''
@@ -76,5 +76,5 @@ experience:
         * Xiaohan served as the team leader of all the volunteers and the core member of the committee.
 
 design:
-  columns: '4'
+  columns: '2'
 ---
