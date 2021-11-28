@@ -54,11 +54,28 @@ experience:
     company: ''
     company_url: ''
     company_logo: ''
-    location: ''
-    date_start: '2018-09-01'
+    location: 'Tsinghua Univ, Beijing, China'
+    date_start: '2016-09-01'
     date_end: ''
     description: >-
-        * As th
+        * 2021, 2020, 2019: 3 times of THU General Excellence Scholarship for the academic year (top 10 students of 150)
+        
+        * 2021: THU Science & Technology Innovation Excellence Scholarship (for top 4% students excellent in scientific research and technology innovation. I am the first and only female student to win this scholarship in 3 years)
+
+        * 2021: Guo Zengyuan Scholarship
+
+        * 2020, 2019: Academic Excellence Scholarship of THU
+
+        * 2019: Volunteer Excellence Scholarship of THU (top 2%)
+
+        * 2018: 1st Class Scholarship for Freshmen of THU (top 1%)
+
+        * 2018: Rank 1st among 980,000 high school graduates in the 2018 College Entrance Examination (Gaokao) of Henan Province.
+        
+        * 2016: Silver Medal, Chinese Girls' Mathematical Olympiad, rank 1st in the Henan Provincial Team and rank 1st of the silver medals (Rank 29th in the whole country)
+
+        
+
 
 design:
   columns: '2'
