@@ -1,6 +1,6 @@
 ---
 title: Research on the rapid selection of suitable solvent system for HSCCC based on the HPLC polarity parameter model
-summary: An example of using the in-built project page.
+summary: THU, Tang Lab, Sep 2020 - July 2021
 tags:
 - HPLC
 date: "2016-04-27T00:00:00Z"
