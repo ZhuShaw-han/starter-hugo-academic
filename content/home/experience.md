@@ -55,7 +55,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: ''
+    date_start: '2018-09-01'
     date_end: ''
     description: >-
         * As th
