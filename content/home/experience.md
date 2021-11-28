@@ -1,4 +1,6 @@
-
+---
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 headless: true  # This file represents a page section.
 
