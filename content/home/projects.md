@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: HPLC
-    tag: HPLC
+  - name: CommunityDynamics
+    tag: CommunityDynamics
   - name: GLV
     tag: GLV
 
