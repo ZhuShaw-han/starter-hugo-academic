@@ -18,10 +18,8 @@ bio: My research interests include Biolphysics, Microbial Community
 
 # Interests to show in About widget
 interests:
-- Biophysics & Bioengineering
-- Microbial Communities
-- Complex System Dynamics
-- Mechanics
+- Bio + ！
+
 
 # Education to show in About widget
 education:
