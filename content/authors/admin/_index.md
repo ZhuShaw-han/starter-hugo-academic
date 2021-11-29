@@ -14,7 +14,7 @@ organizations:
   url: https://www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Biolphysics, Microbial Community
+bio: Undergrad in Tsinghua Univ, interest in Bio+
 
 # Interests to show in About widget
 interests:
