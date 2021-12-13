@@ -37,7 +37,7 @@ experience:
         * Xiaihan served as the first chairman of the team by hosting events and inviting distinguished speakers.
 
         
-  - title: Core Committee Member & Leader of Voluteers
+  - title: Core Committee Member & Leader of Volunteers
     company: INASCON 2019
     company_url: ''
     company_logo: ''
