@@ -7,6 +7,7 @@ title: "3. Rapid isolation and hypoglycemic activity of secondary metabolites of
 authors:
 -  Pengcheng Li, Xiaohan Zhu (co-first author), Jintian Tang, Hongkun Xue, Xu Cai
 
+weight: 60
 
 date: ""
 doi: ""

@@ -7,6 +7,7 @@ title: "2. Counter-Current Fractionation-Assisted Bioassay-Guided Separation of 
 authors:
 - Xue Hongkun, *Zhu Xiaohan*, Tan Jiaqi, Fan Linlin, Li Qian, Tang Jintian and Cai Xu
 
+weight: 40
 
 # Author notes (optional)
 #author_notes:

@@ -7,6 +7,7 @@ title: "1. Simple and practical solvent system selection strategy for HSCCC sepa
 authors:
 -  Xiaohan Zhu, Pengcheng Li, Jiaqi Tan, Shanshan Yu, Qian Li, Jintian Tang, Hongkun Xue, Xu Cai
 
+weight: 20
 
 date: ""
 doi: ""
