@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: \[Microbial Communities - MIT\]
+  - name: [Microbial Communities - MIT]
     tag: CommunityDynamics
   - name: HSCCC & HPLC - THU
     tag: HPLC
