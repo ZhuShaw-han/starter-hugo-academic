@@ -60,4 +60,4 @@ Xiaohan believes that a more diversified and comprehensive knowledge system, sol
 In her free time, she likes hiking, running, and rope skipping. She is a member of the THU Rope-skipping Freestyle team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1WVKTkeZjHV7o9UPM12Pq1t0QdXIJKYnN/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1YLhpxEn3bDOOK9Lku-0xRYAs9oIM-9ss/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
