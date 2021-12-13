@@ -27,13 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: [Microbial Communities (MIT)]
+  - name: Microbial Communities (MIT)
     tag: CommunityDynamics
-  - name: [HSCCC & HPLC (THU)]
+  - name: HSCCC & HPLC (THU)
     tag: HPLC
-  - name: [AI-ML/CV (THU)]
+  - name: AI-ML/CV (THU)
     tag: AI-ML/CV
-    
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
