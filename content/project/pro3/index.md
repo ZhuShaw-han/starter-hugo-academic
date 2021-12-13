@@ -2,7 +2,7 @@
 title: Intelligent Diagnosis of Motor Nervous System Diseases & Multi-sensor-based Human Motion Recognition
 summary: THU, Sui Yanan Lab, Feb 2020 - Sep 2020, Sep 2021 - Present
 tags:
-- AI-ML/CV
+- AI
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

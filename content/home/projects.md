@@ -32,7 +32,8 @@ content:
   - name: HSCCC & HPLC (THU)
     tag: HPLC
   - name: AI-ML/CV (THU)
-    tag: AI-ML/CV
+    tag: AI
+
 
 
 design:
