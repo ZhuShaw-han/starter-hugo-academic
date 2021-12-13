@@ -5,7 +5,7 @@ tags:
 - CommunityDynamics
 date: ""
 
-weight: 300
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
