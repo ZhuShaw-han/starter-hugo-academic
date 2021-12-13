@@ -51,13 +51,13 @@ email: "haroherszhu@gmail.com"
 highlight_name: true
 ---
 
-Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex dynamical systems and natural phenomenon. Xiaohan works extensively in laboratory during her undergraduate years. and has rich research experience in biophysics (microbial community dynamisc), analytical chemistry (chromatography, polarity parameter model, molecular docking), and machine learning, etc. 
+Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She is in *Tsien Excellence in Engineering Program*, the best engineering program in China providing challenging courses and interdisciplinary research traning. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex biological systems and dynamical process. Xiaohan works extensively in laboratory and has rich research experience in biophysics (microbial community dynamics), analytical chemistry (chromatography, molecular docking, etc), and machine learning, etc. 
 
-Xiaohan is now doing her research on Microbial Community assembly, coalescence and historical contingency at Gore Lab, MIT. 
+Xiaohan is now doing her research on Microbial Community assembly, coalescence and historical contingency at *Gore Lab, MIT*. 
 
-Xiaohan believes that a more diversified and comprehensive knowledge system, solid mathematical and mechanical basis and various research experience in college CAN help her obtain better sense in life science, bring innovative perspectives to biological field and carry out distinguishing research in biological field in the long run. 
+Xiaohan believes that a more diversified and comprehensive knowledge system, solid mathematical and mechanical basis and various research experience in college CAN help her obtain better insight into life science, bring innovative perspectives to biological field and carry out distinguishing research in the long run.
 
-In her free time, she likes hiking, running, and rope skipping. She is a member of the THU Rope-skipping Freestyle team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
+In her free time, she loves outdoor recreation, running, and rope skipping. She is a member of the THU Rope-skipping Freestyle Team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1YLhpxEn3bDOOK9Lku-0xRYAs9oIM-9ss/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
