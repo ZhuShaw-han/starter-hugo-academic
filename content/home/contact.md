@@ -28,3 +28,5 @@ content:
 design:
   columns: '2'
 ---
+
+<a href="http://www.clustrmaps.com/map/Shawhan-z-bio.com" title="Visit tracker for Shawhan-z-bio.com"><img src="//www.clustrmaps.com/map_v2.png?d=r8Y4Ir7971hdBw5LSuDNQ98eiUHzrLMpE6r4x4YeVgk" /></a>
