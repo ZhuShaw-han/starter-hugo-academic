@@ -55,7 +55,7 @@ Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Eng
 
 Xiaohan is now doing her research on Microbial Community assembly, coalescence and historical contingency at *Gore Lab, MIT*. 
 
-Xiaohan believes that a more diversified and comprehensive knowledge system, solid mathematical and mechanical basis and various research experience in college CAN help her obtain better insight into life science, bring innovative perspectives to biological field and carry out distinguishing research in the long run.
+Xiaohan believes that a more diversified and comprehensive knowledge system, solid mathematical and mechanical basis and various research experience in college CAN help her obtain better insight into life science, bring innovative perspectives to biological field and carry out distinguishing research in the long run. And she is passionate about solving biological problems with her comprehensive knowledge in engineering, math, etc.
 
 In her free time, she loves outdoor recreation, running, and rope skipping. She is a member of the THU Rope-skipping Freestyle Team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
 
