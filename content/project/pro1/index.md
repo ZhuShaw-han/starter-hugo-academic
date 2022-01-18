@@ -34,7 +34,7 @@ slides: ""
 
 Advisor: Jeff Gore; Professor in MIT Physics of Living Systems.  
 
-Project Area: Biophysics. 
+Project Area: Biophysics；Microbial Community 
 
 \- Simulated the dynamical assembly of ecological communities from a pool of species with generalized Lotka-Volterra model, the results showed that more diverse communities statistically exhibit stronger inter-species interaction strength.  
 
