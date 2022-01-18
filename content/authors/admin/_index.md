@@ -18,7 +18,7 @@ bio: Undergrad in Tsinghua Univ. Keen interest in Bio+
 
 # Interests to show in About widget
 interests:
-- Bio + Me！
+- Bio + Myself！
 
 
 # Education to show in About widget
