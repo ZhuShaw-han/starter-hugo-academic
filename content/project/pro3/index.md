@@ -11,7 +11,7 @@ weight: 60
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by OpenPose
   focal_point: Smart
 
 links:
