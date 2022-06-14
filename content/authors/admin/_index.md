@@ -51,7 +51,7 @@ email: "haroherszhu@gmail.com"
 highlight_name: true
 ---
 
-Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She is in *Tsien Excellence in Engineering Program*, the best engineering program in China providing challenging courses and interdisciplinary research traning. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex biological systems and dynamical process. Xiaohan works extensively in laboratory and has rich research experience in biophysics (microbial community dynamics), analytical chemistry (chromatography, molecular docking, etc), and machine learning, etc. 
+Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She is in *Tsien Excellence in Engineering Program*, the best engineering program in China providing challenging courses and interdisciplinary research traning. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex biological systems and dynamical process. Xiaohan works extensively in laboratory and has rich research experience in biophysics (community dynamics, including assembly, coalescence, etc), analytical chemistry (chromatography, etc), and machine learning, etc. 
 
 Xiaohan is now doing her research on Microbial Community assembly, coalescence and historical contingency at *Gore Lab, MIT*. 
 
