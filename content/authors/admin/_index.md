@@ -27,7 +27,6 @@ education:
   - course: Bachelor of Engineering
     institution: Tsinghua University
     year: Graduted in 2022
-  courses:
   - course: Bachelor of Engineering
     institution: Tsinghua University
     year: Graduted in 2022
