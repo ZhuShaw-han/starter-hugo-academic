@@ -26,7 +26,12 @@ education:
   courses:
   - course: Bachelor of Engineering
     institution: Tsinghua University
-    year: Anticipated 2022
+    year: Graduted in 2022
+  courses:
+  - course: Bachelor of Engineering
+    institution: Tsinghua University
+    year: Graduted in 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
