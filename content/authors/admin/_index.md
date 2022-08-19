@@ -27,7 +27,7 @@ education:
   - course: Bachelor of Engineering
     institution: Tsinghua University
     year: Graduted in 2022
-  - course: 1st year PhD student in Biophysics
+  - course: 1st year Biophysics PhD student
     institution: UC Berkeley
     year: Enrolled in 2022
 
