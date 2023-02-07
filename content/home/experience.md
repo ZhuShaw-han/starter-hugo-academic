@@ -60,39 +60,34 @@ experience:
     description: >-
        2021: 
 
-       * THU General Excellence Scholarship for the academic year (around top 10 students of 150)
+       * THU General Excellence Scholarship for the academic year 
 
        * Guo Zengyuan Scholarship
 
-       * THU Science & Technology Innovation Excellence Scholarship (for top 4% students excellent in scientific research and technology innovation. Xiaohan is the first and only female student to win this scholarship in 3 years)
+       * THU Science & Technology Innovation Excellence Scholarship 
        
 
        2020: 
 
-       * THU General Excellence Scholarship for the academic year (around top 10 students of 150)
+       * THU General Excellence Scholarship for the academic year 
 
        * Academic Excellence Scholarship of THU
 
        2019:
 
-       * THU General Excellence Scholarship for the academic year (around top 10 students of 150)
+       * THU General Excellence Scholarship for the academic year 
 
        * Academic Excellence Scholarship of THU
 
-       * Volunteer Excellence Scholarship of THU (top 2%)
+       * Volunteer Excellence Scholarship of THU
       
 
        2018: 
        
-       * 1st Class Scholarship for Freshmen of THU (top 1%)
+       * 1st Class Scholarship for Freshmen of THU 
        
-       * Rank 1st among 980,000 high school graduates in the 2018 College Entrance Examination (Gaokao) of Henan Province.
+             
        
-       
-       2016: 
-       
-       * Silver Medal of Chinese Girls' Mathematical Olympiad, rank 1st in the Henan Provincial Team and rank 1st of the silver medals (Rank 29th in the whole country)
-
         
 
 
