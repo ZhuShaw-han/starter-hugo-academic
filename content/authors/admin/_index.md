@@ -49,7 +49,7 @@ social:
   link: https://drive.google.com/file/d/1YLhpxEn3bDOOK9Lku-0xRYAs9oIM-9ss/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "haroherszhu@gmail.com"
+email: "xiaohanzhu@berkeley.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
