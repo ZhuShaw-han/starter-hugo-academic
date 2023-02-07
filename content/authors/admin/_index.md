@@ -6,15 +6,15 @@ title: Xiaohan Zhu
 superuser: true
 
 # Role/position/tagline
-role: UnderGraduate
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tsinghua University
-  url: https://www.tsinghua.edu.cn/en/
+- name: University of California, Berkeley
+  url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergrad in Tsinghua Univ. Keen interest in Bio+
+bio: Graduate from Tsinghua Univ TEEP. Keen interest in Bio+
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   - course: Bachelor of Engineering
     institution: Tsinghua University
     year: Graduted in 2022
-  - course: 1st year Biophysics PhD student
+  - course: 1st year Biophysics Graduate Program
     institution: UC Berkeley
     year: Enrolled in 2022
 
@@ -55,13 +55,13 @@ email: "haroherszhu@gmail.com"
 highlight_name: true
 ---
 
-Xiaohan Zhu is an undergraduate student from Tsinghua University majoring in Engineering Mechanics. She is in *Tsien Excellence in Engineering Program*, the best engineering program in China providing challenging courses and interdisciplinary research traning. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex biological systems and dynamical process. Xiaohan works extensively in laboratory and has rich research experience in biophysics (community dynamics, including assembly, coalescence, etc), analytical chemistry (chromatography, etc), etc. 
+Xiaohan Zhu graduated from Tsinghua University in 2022 majoring in Engineering Mechanics. She is in *Tsien Excellence in Engineering Program*, the best engineering program in China providing challenging courses and interdisciplinary research traning. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex biological systems and dynamical process. Xiaohan works extensively in laboratory and has rich research experience in biophysics (community dynamics, including assembly, coalescence, etc), analytical chemistry (chromatography, etc), etc. 
 
-Xiaohan is now doing her research on Microbial Community assembly, coalescence and historical contingency at *Gore Lab, MIT*. 
+Xiaohan is now a 1st year rotation student from UC Berkeley Biophysics PhD program.
 
 Xiaohan believes that a more diversified and comprehensive knowledge system, solid mathematical and mechanical basis and various research experience in college CAN help her obtain better insight into life science, bring innovative perspectives to biological field and carry out distinguishing research in the long run. And she is passionate about solving biological problems with her comprehensive knowledge in engineering, math, etc.
 
-In her free time, she loves outdoor recreation, running, and rope skipping. She is a member of the THU Rope-skipping Freestyle Team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
+In her free time, she loves outdoor recreation, running, and rope skipping. She was a member of the THU Rope-skipping Freestyle Team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1YLhpxEn3bDOOK9Lku-0xRYAs9oIM-9ss/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.

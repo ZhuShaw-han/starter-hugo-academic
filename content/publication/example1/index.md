@@ -1,15 +1,15 @@
 ---
-title: "1. Simple and practical solvent system selection strategy for HSCCC separation based on the HPLC polarity parameter model of the target compound"
+title: "1. A simple and practical solvent system selection strategy for high-speed countercurrent chromatography based on the HPLC polarity parameter model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
--  Xiaohan Zhu, Pengcheng Li, Jiaqi Tan, Shanshan Yu, Qian Li, Jintian Tang, Hongkun Xue, Xu Cai
+-  Xiaohan Zhu, Pengcheng Li, Jintian Tang, Yanqi Su, Mi Xiao, Hongkun Xue, Xu Cai
 
 weight: 20
 
-date: "2021-11-10T00:00:00Z"
+date: "2022-10-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +22,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Chromatography A (Under Review, Manuscript Number JCA-21-1498)*
-publication_short: In *Journal of Chromatography A (Under Review, Manuscript Number JCA-21-1498)*
+publication: In *Analytical Methods*
+publication_short: In *Analytical Methods*
 
-abstract: The selection of appropriate solvent system is the most crucial step of high-speed countercurrent chromatography (HSCCC) application for guaranteeing excellent separation efficiency, shorter run time, and better peak resolution. Polarity always plays an important role in the widely used chromatography techniques of HPLC and HSCCC. However, the HPLC evaluation and calculation of the compound polarity and the selection of appropriate HSCCC solvent system remain mutually independent. We chose 14 compounds to conduct the flask-and-shake experiments and HPLC analysis, such as apigenin, honokiol, phloridzin and dihydromaricetin. And as the results show, the compound polarity computed from the average polarity of biphasic system when the compound is uniformly distributed in two liquid phases and from HPLC analysis are equivalent. Guided by this strategy, we chose proper HSCCC solvent systems for mangosteen peel and Hypericum sampsonii Hance respectively, and two main components (mangostin and quercetin) were isolated from their extracts. This method greatly improves the efficiency of HSCCC solvent system selection, shortens the experimental time, and requires only 1 to 2 HPLC analysis with reference compounds. Therefore, the relationship between the polarity of the solute and the solvent, the polarity parameter model, provides a fast, steady and efficient analysis method for the calculation of the polarity parameters of unknown components in the material and the selection of the appropriate HSCCC solvent system for the extraction of those components. 
+abstract: The selection of an appropriate solvent system is the most crucial step in high-speed countercurrent chromatography (HSCCC) separation. The compound polarity plays an important role in HPLC analysis and HSCCC separation, and it can be calculated by the HPLC polarity parameter model and the average polarity of the HSCCC solvent system, respectively. However, flow rates, columns and methanol concentrations of the HPLC experiment can influence the calculation of the compound polarity. Therefore, the applicability and accuracy of the HPLC polarity parameter model still needed to be extensively validated. We chose 14 compounds to conduct the shake-flask experiments and HPLC analysis on, such as apigenin, honokiol, phloridzin and dihydromyricetin. The HPLC analysis results showed that different flow rates and columns have negligible effects on the calculated compound polarities. However, there was a certain variation trend in the calculated polarities with different methanol concentrations. Although the polarity values of some compounds showed a difference between the HPLC analysis and shake-flask experiments, their partition coefficients (K) in the HSCCC solvent systems were still located in the range of 0.5 < K < 2.0. Guided by the HPLC polarity parameter model, the appropriate HSCCC solvent systems for mangosteen peel and Hypericum sampsonii Hance were selected, and the two main components (mangostin and quercetin) were isolated from their extracts, respectively. The separation results showed that the predicted compound polarities were sufficient to meet the HSCCC separation requirements. Meanwhile, this method required only 1 to 2 HPLC analyses with reference compounds, greatly improved the efficiency of the HSCCC solvent system selection, and shortened the experimental time. The polarity parameter model was a fast and efficient analysis method for the selection of an appropriate HSCCC solvent system.
 
 # Summary. An optional shortened abstract.
 summary: Provided a new rapid and simple method for the separation of unknow compounds. I used liquid-liquid separation technology coupled with High-Speed Countercurrent Chromatography (HSCCC) to separate high-purity compounds from complex natural compounds. 
