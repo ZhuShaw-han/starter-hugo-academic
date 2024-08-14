@@ -55,13 +55,12 @@ email: "xiaohanzhu@berkeley.edu"
 highlight_name: true
 ---
 
-Xiaohan Zhu graduated from Tsinghua University in 2022 majoring in Engineering Mechanics. She is in *Tsien Excellence in Engineering Program*, the best engineering program in China providing challenging courses and interdisciplinary research traning. She has genuine passion for life science and is fascinated by the simple, elegant laws that emerging from complex biological systems and dynamical process. Xiaohan works extensively in laboratory and has rich research experience in biophysics (community dynamics, including assembly, coalescence, etc), analytical chemistry (chromatography, etc), etc. 
+Graduated from Tsinghua University in 2022 majoring in Engineering Mechanics. 
 
-Xiaohan is now a 1st year rotation student from UC Berkeley Biophysics PhD program.
+Joined UC Berkeley Biophysics PhD program since 2022.
 
-Xiaohan believes that a more diversified and comprehensive knowledge system, solid mathematical and mechanical basis and various research experience in college CAN help her obtain better insight into life science, bring innovative perspectives to biological field and carry out distinguishing research in the long run. And she is passionate about solving biological problems with her comprehensive knowledge in engineering, math, etc.
+Joined the Streets Lab @UC Berkeley since 2023.
 
-In her free time, she loves outdoor recreation, running, and rope skipping. She was a member of the THU Rope-skipping Freestyle Team, and won the championship for two consecutive years in THU Ma Yuehan Cup Women 60-sec single-jump speed race.
-
+In my free time, I enjoy photography, hiking and running. I'm trying to learn how to back flip right now :)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1YLhpxEn3bDOOK9Lku-0xRYAs9oIM-9ss/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
